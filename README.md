@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naytxi
+- 👋 Hi, I’m nay
 - 👀 I’m interested in graphic desing, videogames, books....
 - 🌱 I’m currently learning coding
 - 😄 Pronouns: she/her

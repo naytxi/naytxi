@@ -1,4 +1,4 @@
-![Texto alternativo](https://i.pinimg.com/enabled_hi/564x/d7/25/33/d72533fe77d1a4570f525fd0595690b9.jpg)
+![Texto alternativo](https://i.pinimg.com/originals/25/0e/1d/250e1ddc0a3491b138e3ef1e0994387e.gif)
 - 👋 Hi, I’m nay
 - 👀 I’m interested in graphic desing, videogames, books....
 - 🌱 I’m currently learning to code

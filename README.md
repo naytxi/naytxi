@@ -1,3 +1,4 @@
+![Texto alternativo](https://i.imgur.com/7A5ZfPJ.gif)
 - 👋 Hi, I’m nay
 - 👀 I’m interested in graphic desing, videogames, books....
 - 🌱 I’m currently learning coding

@@ -1,4 +1,5 @@
-![Texto alternativo](https://i.pinimg.com/originals/25/0e/1d/250e1ddc0a3491b138e3ef1e0994387e.gif)
+![Header](https://github.com/user-attachments/assets/2fe532c5-f4a3-4b28-90b8-90d5be17fe0f)
+
 - 👋 Hi, I’m nay
 - 👀 I’m interested in graphic desing, videogames, books....
 - 🌱 I’m currently learning to code

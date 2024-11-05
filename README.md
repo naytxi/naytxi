@@ -1,4 +1,5 @@
-![Header](https://github.com/user-attachments/assets/2fe532c5-f4a3-4b28-90b8-90d5be17fe0f)
+
+![github-header-image(4) (copia)](https://github.com/user-attachments/assets/e36ce0a5-ea7e-49e1-86e3-18489557715c)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Nay
 ===========================================================================================================================

@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Peñascalf5 Fullstack Bootcamp and 42 student, learning all Frontend and Backend languajes.
 
 *   🌍  I'm based in Bilbao
-*   🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/nahia-otegui-beldarrain-3a7b88332/)
+*   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/nahia-otegui-beldarrain-3a7b88332/)
 *   ✉️  You can contact me at [nay.fullstack@gmail.com](mailto:nay.fullstack@gmail.com)
 *   🚀  I'm currently working on [My Portfolio](http://https://github.com/naytxi)
 *   🧠  I'm learning HTML, CSS, JAVA, C

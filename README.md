@@ -19,7 +19,9 @@ I'm a Peñascalf5 Fullstack Bootcamp and 42 student, learning all Frontend and B
 
 <h2> 👀About Me </h2>
 I have extensive experience working in customer-facing roles, where I have developed strong interpersonal and communication skills.
+
 My abilities are well-suited to environments that require a solution-oriented approach, as I excel at resolving issues efficiently and maintaining a positive, professional demeanor. 
+
 I am skilled at understanding and meeting client needs, and I am committed to providing excellent service in every interaction.
 
   ### 📖Skills 

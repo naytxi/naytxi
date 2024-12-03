@@ -24,7 +24,8 @@ My abilities are well-suited to environments that require a solution-oriented ap
 
 I am skilled at understanding and meeting client needs, and I am committed to providing excellent service in every interaction.
 
-![NAY-modified](https://github.com/user-attachments/assets/f6102937-cef4-4306-a8e7-3798e9c4d042)
+![NAY-modified](https://github.com/user-attachments/assets/b850d1f1-2bea-429a-8f9e-c46cfbe126d2)
+
 
  <h2> $$\mathbf{\color{purple}📖Skills}$$ </h2>
 <p align="left">

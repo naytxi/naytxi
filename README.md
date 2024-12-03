@@ -41,7 +41,7 @@ I am skilled at understanding and meeting client needs, and I am committed to pr
 
 <a href="https://github.com/naytxi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naytxi&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
+![progammer gif](https://i.pinimg.com/originals/9d/d7/f9/9dd7f9e622c2df33090dada16c9c0151.gif)
 
 
 

@@ -1,8 +1,9 @@
 
-![github-header-image(4) (copia)](https://github.com/user-attachments/assets/e36ce0a5-ea7e-49e1-86e3-18489557715c)
+![nayheader](https://github.com/user-attachments/assets/1c5ce926-1ff3-4b7c-93a0-ac3e18834588)
 
 $$\mathbf{\color{purple}Hi}$$  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) $$\mathbf{\color{purple}I'm \space Nay}$$
-===========================================================================================================================
+==========================================================================================================
+=================
 ![progammer gif](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)
 
 $$\mathbf{\color{purple}🚀Web\space Developer\space Fullstack\space Student}$$

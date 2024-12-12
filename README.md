@@ -5,7 +5,7 @@ $$\mathbf{\color{purple}Hi}$$  ![](https://user-images.githubusercontent.com/183
 ==========================================================================================================
 ![progammer gif](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)
 
-$$\mathbf{\color{purple}🚀Web\space Developer\space Fullstack\space Student}$$
+$$\mathbf{\color{purple}🚀Fullstack\space Web\space Developer\space  and\space Graphic\space Designer}$$
 -------------------------------
 
 I'm a Peñascalf5 Fullstack Bootcamp and 42 student, learning all Frontend and Backend languajes.

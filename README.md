@@ -14,7 +14,7 @@ I'm a Peñascalf5 Fullstack Bootcamp and 42 student, learning all Frontend and B
 *   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/nahia-otegui-beldarrain-3a7b88332/)
 *   ✉️  You can contact me at [nay.fullstack@gmail.com](mailto:nay.fullstack@gmail.com)
 *   🚀  I'm currently working on [My Portfolio](http://https://github.com/naytxi)
-*   🧠  I'm learning HTML, CSS, JAVA, C
+*   🧠  I'm learning HTML, CSS, JAVASCRIPT, C
 *   ⚡  I'm a 7 years old experience RolMaster
 
 <h2> $$\mathbf{\color{purple}👀About\space Me}$$ </h2>
@@ -23,6 +23,14 @@ I have extensive experience working in customer-facing roles, where I have devel
 My abilities are well-suited to environments that require a solution-oriented approach, as I excel at resolving issues efficiently and maintaining a positive, professional demeanor. 
 
 I am skilled at understanding and meeting client needs, and I am committed to providing excellent service in every interaction.
+
+I am a proactive and dynamic individual who thrives on collaboration and creativity.
+I believe that teamwork is the cornerstone of success, and I take pride in contributing to a positive and productive group environment.
+
+Whether brainstorming innovative solutions or tackling challenges head-on, I approach every task with enthusiasm and determination.
+Above all, I am passionate about creating meaningful work, fostering innovation, and contributing to shared success.
+
+I believe that my proactive mindset, teamwork skills, and creative drive make me a valuable asset in any endeavor.
 
 ![NAY-modified](https://github.com/user-attachments/assets/b850d1f1-2bea-429a-8f9e-c46cfbe126d2)
 

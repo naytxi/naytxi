@@ -8,7 +8,7 @@ $$\mathbf{\color{purple}Hi}$$  ![](https://user-images.githubusercontent.com/183
 $$\mathbf{\color{purple}🚀Fullstack\space Web\space Developer\space  and\space Graphic\space Designer}$$
 -------------------------------
 
-I'm a Peñascalf5 Fullstack Bootcamp and 42 student, learning all Frontend and Backend languajes.
+I'm a Peñascalf5 Fullstack Bootcamp, BBK The Bridge Bootcamp and Urduliz 42 student, learning all Frontend and Backend languajes.
 
 *   🌍  I'm based in Bilbao
 *   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/nahia-otegui-beldarrain-3a7b88332/)

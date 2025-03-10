@@ -14,7 +14,7 @@ I'm a Peñascalf5 Fullstack Bootcamp and 42 student, learning all Frontend and B
 *   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/nahia-otegui-beldarrain-3a7b88332/)
 *   ✉️  You can contact me at [nay.fullstack@gmail.com](mailto:nay.fullstack@gmail.com)
 *   🚀  I'm currently working on [My Portfolio](http://https://github.com/naytxi)
-*   🧠  I'm learning HTML, CSS, JAVASCRIPT, C
+*   🧠  I'm learning HTML, CSS, JAVASCRIPT, C, Vue, Python and React
 *   ⚡  I'm a 7 years old experience RolMaster
 
 <h2> $$\mathbf{\color{purple}👀About\space Me}$$ </h2>
